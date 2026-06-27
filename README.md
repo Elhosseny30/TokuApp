@@ -23,4 +23,4 @@ Toku App is an educational mobile application built with **Flutter**, designed t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Toku-App.git](https://github.com/YourUsername/Toku-App.git)
+   git clone https://github.com/Elhosseny30/TokuApp.git
