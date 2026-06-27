@@ -1,16 +1,26 @@
-# tokuapprecap
+# Toku App 🇯🇵
 
-A new Flutter project.
+## 📖 Overview
+Toku App is an educational mobile application built with **Flutter**, designed to teach users the fundamentals of the Japanese language. The application provides an intuitive and interactive learning experience through structured content and audio support.
+
+## Key Features
+* **Audio Pronunciation:** Integrates native hardware audio playback to assist users with accurate Japanese word pronunciation.
+* **Seamless Navigation:** Implements robust multi-screen navigation and efficient data routing within the mobile environment.
+* **Consistent UI/UX:** Heavily utilizes custom, reusable Flutter widgets to maintain a consistent, clean, and modular design architecture across the entire application.
+
+## Technologies & Tools
+* **Framework:** Flutter
+* **Language:** Dart
+* **Core Concepts:** Multi-screen routing, State Management, Custom UI Components, Hardware Audio Integration.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+* Flutter SDK (Latest Version)
+* Dart SDK
+* An IDE (VS Code or Android Studio)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YourUsername/Toku-App.git](https://github.com/YourUsername/Toku-App.git)
